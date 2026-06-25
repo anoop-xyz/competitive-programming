@@ -2,9 +2,9 @@ class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
         List<Integer> target=new ArrayList<>();
         for(int i=0;i<index.length;i++){
-            int c=index[i];
+            //int c=index[i];
                 
-                target.add(c,nums[i]);
+                target.add(index[i],nums[i]);
             
     }
     
