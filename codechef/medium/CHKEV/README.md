@@ -88,7 +88,7 @@ $6$ is even, so the answer is `Yes`.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-12T14:47:48.072Z  
+**Submitted:** 2026-08-12T14:47:57.055Z  
 
 ```java
 import java.util.*;
